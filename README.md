@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 .full-doc {
   display: flex;
   flex-direction: column;
@@ -64,7 +66,6 @@ h4 {
   color: green;
 }
 
-<!DOCTYPE html>
 <div class="nav-bar">
     <a href=#about>About</a>
     <a href=#experience>Experience</a>
