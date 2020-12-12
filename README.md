@@ -65,7 +65,7 @@ h4 {
   font-size: 100px;
   color: green;
 }
-
+<div>
 <div class="nav-bar">
     <a href=#about>About</a>
     <a href=#experience>Experience</a>
@@ -84,18 +84,5 @@ h4 {
   </div>
   <div class="my-projects">
     <h4>These Are Some Of My Projects</h4>
-  </div><!DOCTYPE html>
-<div class="full-doc">
-  <div class="nav-bar">
-    <a href=#about>About</a>
-    <a href=#experience>Experience</a>
-    <a href=#contact>Contact</a>
   </div>
-  <div class="welcome-section">
-    <h1>Dillon Melet</h1>
-    <h2><u>Copywriter and Editor</u></h2>
-    <h3><u>Amateur Coder</u></h3>
-  </div>
-  <div class="my-projects">
-    <h4>These Are Some Of My Projects</h4>
   </div>
