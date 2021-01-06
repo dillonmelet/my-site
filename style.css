@@ -78,6 +78,14 @@ h4 {
   font-size: 100px;
   align-items: center;
   justify-content: center;
+  opacity:0.65;
+}
+
+.photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 p {
@@ -85,11 +93,15 @@ p {
   font-family: Helvetica;
   display: flex;
   align-items: center;
-  position: relative;
   border: 5px solid black;
   margin: auto;
   width: 40%;
-  bottom: 40px;
   background-color: grey;
   padding: 30px;
+  opacity:0.65;
+}
+
+img {
+  margin-bottom: 50px;
+  margin-top: -70px;
 }
