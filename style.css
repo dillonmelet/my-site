@@ -105,3 +105,11 @@ img {
   margin-bottom: 50px;
   margin-top: -70px;
 }
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 50px;
+}
