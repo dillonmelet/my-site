@@ -178,6 +178,8 @@ ul {
   margin-left: 30px;
   line-height: 1.25em;
   list-style-position: outside;
+  background-color: grey;
+  border: 5px solid black;
 }
 
 .contact-info {
@@ -186,4 +188,3 @@ ul {
   justify-content: center;
   flex-direction: row;
 }
-
