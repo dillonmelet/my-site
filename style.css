@@ -107,25 +107,25 @@ img {
 }
 
 .experience {
-}
-
-li {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+  
 }
 
 .column {
   float: left;
   width: 33.33%;
   font-size: 50px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .column-one {
   float: left;
   width: 33.33%;
   font-size: 50px;
+  list-style: none;
 }
 
 .column-two {
@@ -139,13 +139,51 @@ li-one {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  margin: 20px 0;
+}
+
+li-two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 300px;
+}
+
+li-three {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 300px;
+}
+
+li-four {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 265px;
+}
+
+li-five {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 260px;
 }
 
 ul {
   font-size: 20px;
-  list-style-type: circle;
   margin-left: 30px;
   line-height: 1.25em;
-  list-style-position: inside;
+  list-style-position: outside;
 }
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
