@@ -106,10 +106,46 @@ img {
   margin-top: -70px;
 }
 
+.experience {
+}
+
 li {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
   font-size: 50px;
+}
+
+.column-one {
+  float: left;
+  width: 33.33%;
+  font-size: 50px;
+}
+
+.column-two {
+  float: left;
+  width: 33.33%;
+  font-size: 30px;
+}
+
+li-one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px 0;
+}
+
+ul {
+  font-size: 20px;
+  list-style-type: circle;
+  margin-left: 30px;
+  line-height: 1.25em;
+  list-style-position: inside;
 }
